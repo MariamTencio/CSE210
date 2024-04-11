@@ -69,8 +69,8 @@ class Customer {
 }
 class Order {
     Product p = new Product("apple", 0021, 3.43, 5);
-    Customer c = new Customer("Vinnicius Castro");
-    Address a = new Address("Sao Paulo","SP","None", "Brazil");
+    Customer c = new Customer("Mariam Tencio");
+    Address a = new Address("San Jose","SJ","None", "Costa Rica");
     Product p1 = new Product("honey", 0011, 2.21, 7);
     Customer c1 = new Customer("Olivia Rodrigo");
     Address a1 = new Address("Murrieta","CA","French Valley", "United States");
@@ -78,8 +78,8 @@ class Order {
     Customer c2 = new Customer("Billie Eilish");
     Address a2 = new Address("Los Angeles","CA","Santa Monica", "United States");
     Product p3 = new Product("Strawberry", 0011, 1.99, 2);
-    Customer c3 = new Customer("Tais Araujo");
-    Address a3 = new Address("Rio de Janeiro","RJ","None", "Brazil");
+    Customer c3 = new Customer("Jos Seljaas");
+    Address a3 = new Address("Utah","UT","None", "United States");
 
 
     public void Display(){
