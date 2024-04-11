@@ -78,7 +78,7 @@ class Order {
     Customer c2 = new Customer("Billie Eilish");
     Address a2 = new Address("Los Angeles","CA","Santa Monica", "United States");
     Product p3 = new Product("Strawberry", 0011, 1.99, 2);
-    Customer c3 = new Customer("Jos Seljaas");
+    Customer c3 = new Customer("Josh Seljaas");
     Address a3 = new Address("Utah","UT","None", "United States");
 
 
